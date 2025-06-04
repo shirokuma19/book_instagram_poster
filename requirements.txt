@@ -1,0 +1,7 @@
+requests==2.31.0
+google-api-python-client==2.108.0
+Pillow
+python-dotenv==1.0.0
+click==8.1.7
+instagrapi==2.0.0
+beautifulsoup4==4.12.2 
