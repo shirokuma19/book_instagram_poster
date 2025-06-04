@@ -56,10 +56,6 @@ POST_INTERVAL=24  # 投稿間隔（時間）
 python main.py
 ```
 
-3. スケジュール設定（オプション）:
-```bash
-python main.py --schedule "09:00"  # 毎日午前9時に投稿
-```
 
 ## 機能詳細
 
